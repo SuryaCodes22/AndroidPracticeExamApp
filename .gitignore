@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Ensure Google Services is ignored globally
+**/google-services.json

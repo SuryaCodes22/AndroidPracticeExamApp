@@ -1,0 +1,8 @@
+# Firebase configuration file
+google-services.json
+
+# Local configuration and keys
+local.properties
+
+# Android Studio folders
+/build
